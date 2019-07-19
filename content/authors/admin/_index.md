@@ -14,7 +14,7 @@ role: Post-doctoral researcher in Data Privacy in Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Department Informatique, ENS
+- name: DI-ENS
   url: "https://www.di.ens.fr/"
 - name: INRIA
   url: "https://www.inria.fr/en/"
@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Ashish Dandekar is working as a post-doctoral researcher at [VALDA](https://team.inria.fr/valda/) lab, which is a joint research team between [Inria Paris](https://www.inria.fr/centre/paris), [École normale supérieure](http://www.ens.fr/), and [CNRS](http://www.cnrs.fr/) within the Computer science department of École normale supérieure. He is working on the privacy aspect of the [BioQOP project](http://bioqop.di.ens.fr/). His primarily focuses on providing provable privacy guarantees for machine learning models, addressing privacy-utility trade-off and designing cost models for private data.
+Ashish Dandekar is working as a post-doctoral researcher at [VALDA](https://team.inria.fr/valda/) lab, which is a joint research team between [Inria Paris](https://www.inria.fr/centre/paris), [École normale supérieure](http://www.ens.fr/), and [CNRS](http://www.cnrs.fr/) within the Computer science department of École normale supérieure. He is working on the privacy aspect of the [BioQOP project](http://bioqop.di.ens.fr/). His research primarily focuses on providing provable privacy guarantees for machine learning models, addressing the privacy-utility tradeoff and designing cost models for private data.
 
 Besides his research, Ashish is a foodie and a globetrotter. He enjoys hiking and exploring nature trails on the weekends. Since 2015, he is learning Sitar - an Indian classical stringed instrument. He is an avid connosieur of [Hindustani music](https://en.wikipedia.org/wiki/Hindustani_classical_music).

@@ -5,7 +5,7 @@
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
 color_theme = "default"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
@@ -59,11 +59,11 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "adandekar@ens.fr"
-phone = "+33 6 26 33 14 27"
-address = "Department Informatique, ENS, 45, rue d’Ulm 75230 Paris Cedex 05"
+# phone = "+33 6 26 33 14 27"
+address ="Département d'informatique,<br> École normale supérieure, <br> 45, rue d'Ulm,<br> 75230 Paris Cedex 05"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Mon-Fir 0930-1200 and 1300-1750"""
+office_hours = """Mon-Fri: 0930-1200 & 1300-1750"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -72,7 +72,7 @@ office_hours = """Mon-Fir 0930-1200 and 1300-1750"""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Ashish Dandekar", link = "skype:echo123?call"},
+  # {icon = "skype", icon_pack = "fab", name = "Ashish Dandekar", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
